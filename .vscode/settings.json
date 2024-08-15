@@ -1,0 +1,8 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "sdkconfig.h": "c"
+  },
+  "idf.portWin": "COM25",
+  "idf.adapterTargetName": "esp32s3"
+}
